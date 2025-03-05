@@ -4,7 +4,21 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, and welcome to my blog! I’m **Muhammed Mahmoud** aka **shadoo**, an **Electronics and Communication Engineer** with a passion for **cybersecurity, penetration testing, and Hardware**.
 
-I am muhammed mahmoud
+This blog is where i share what I’ve learned. I hope you find something useful here, and maybe even something that sparks your curiosity.  
+
+## Skills
+- **Penetration Testing** (Web, Network, Wireless, IoT)  
+- **Firmware Analysis & Reverse Engineering**  
+- **Active Directory Security & Exploitation**  
+- **Binary Exploitation & Reverse Engineering**  
+- **Wireless Security** (NFC, RFID, Wi-Fi, Bluetooth, Sub-GHz)  
+- **Exploit Development**  
+- **CTF Challenges & Security Research**  
+- **Worked on many Hardware Projects**
+
+**Thanks for stopping by.**  
+
+
+
