@@ -1,3 +1,10 @@
+---
+title: "Debugging Interface Challenge"
+date: 2025-03-05 00:00:00
+categories: [Hardware]
+tags: [Hardware,Challenges,HackTheBox]
+---
+
 # debugging interface
 
 - challenge description
