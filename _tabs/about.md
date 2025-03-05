@@ -18,6 +18,11 @@ This blog is where i share what I’ve learned. I hope you find something useful
 - **CTF Challenges & Security Research**  
 - **Worked on many Hardware Projects**
 
+## Certificates & Achievements
+- **CNSP:Certified Network Security Practitioner**
+- **CAP:Certified AppSec Practitioner**
+- **TOP 10 at  WE INNOVATE cybersecurity Hackathon with firmware analysis tool**
+
 **Thanks for stopping by.**  
 
 
