@@ -1,6 +1,6 @@
 ---
 title: "Aswan CTF Qualification 2025 Web Writeups"
-date: 2025-03-05 00:00:00
+date: 2025-04-12 00:00:00
 categories: [CTF]
 tags: [CTF,Pentesting,WEB]
 image: 
@@ -8,5 +8,5 @@ image:
 ---
 
 # Me and Ymuu Have solved the web challenges and here is the full writeups of the challenges 
-![For Write-Ups , just Click-Me](https://noob-ymuu.site/posts/aswanctf-2025-qualifications/aswan-ctf-web-writeups/)
+[For Write-Ups , just Click-Me](https://noob-ymuu.site/posts/aswanctf-2025-qualifications/aswan-ctf-web-writeups/)
  
