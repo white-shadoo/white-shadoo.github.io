@@ -4,7 +4,7 @@ date: 2025-06-11 00:00:00
 categories: [CTF]
 tags: [CTF,Pentesting,WEB]
 image: 
-  path: images/studying/wifi/images.png
+  path: images/studying/wifi/LOGO-Yellow.png
 
 ---
 
@@ -12,7 +12,7 @@ image:
 
 - first look
 
-![image.png](images/CTF/thndr/LOGO-Yellow.png)
+![image.png](images/CTF/thndr/image%200.png)
 
 - mmm
 
