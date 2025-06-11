@@ -12,7 +12,7 @@ image:
 
 - first look
 
-![image.png](images/CTF/thndr/image%200.png)
+![image.png](images/CTF/thndr/image.png)
 
 - mmm
 
